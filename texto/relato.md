@@ -4,7 +4,7 @@ Joe *Gran Rifle* bajó las escaleras calándose su sombrero mientras se levantab
 &mdash;¿Cómo sigue su señora? &mdash;preguntó el barman.  
 &mdash;Aún tiene algo de fiebre, y su estómago sigue sin tolerar demasiado 
 bien la comida, pero sobrevivirá, señor McCoy. Esa mujer tiene demasiado carácter como para dejarse ganar la partida por una simple infección &mdash;respondió Joe con una sonrisa&mdash;. Póngame un whisky doble.  
-Después de apurar el baso, Gran Rifle se despidió del barman con un gesto y se encaminó a la salida.  
+Después de apurar el vaso, Gran Rifle se despidió del barman con un gesto y se encaminó a la salida.  
 &mdash;¿Esta noche también va usted de paseo? &mdash;sonó una voz entre la multitud. Todo el *saloon* quedó en silencio.  
 &mdash;¿Quién lo pregunta? &mdash;dijo Joe, deteniéndose a medio camino.  
 &mdash;Alguien a quien no le parece bien que deje sola a su mujer enferma, mientras va por ahí a pasárselo bien.  
@@ -29,7 +29,7 @@ El interpelado no tuvo más remedio que aceptar:
 
 &mdash;¿Están seguros de que quieren seguir con esto, caballeros? &mdash;preguntó el sheriff.  
 Ambos respondieron con un gesto afirmativo ante la mirada de los curiosos. Todos los clientes del *saloon* habían salido a la plaza a la que daba el negocio para presenciar la escena. El señor McCoy sonreía al pensar que, fuere cual fuese el resultado, casi todos los espectadores volverían luego a su negocio para comentar lo sucedido mientras tomaban un trago.  
-&mdash;Las normas son estas: cada uno se pondrá a un extremo de la plasa, frente a frente. Una vez yo dispare al aire mi revólver, pueden ustedes hacer fuego en cualquier momento. Si alguno lo hiciera antes que yo, irá directamente a la horca. ¿Han entendido?  
+&mdash;Las normas son estas: cada uno se pondrá a un extremo de la plaza, frente a frente. Una vez yo dispare al aire mi revólver, pueden ustedes hacer fuego en cualquier momento. Si alguno lo hiciera antes que yo, irá directamente a la horca. ¿Han entendido?  
 Carson y Joe repitieron el gesto afirmativo y se alejaron a tomar posición.  
 Después de que el disparo resonase en todos los oídos presentes, se hizo el silencio. Nadie entre la multitud se atrevía siquiera a respirar. Ambos hombres se miraban desde la distancia, evaluándose, con las manos cerca de sus armas, pero sin tocarlas. En la noche, era poca la visibilidad, y muchas las posibilidades de fallar.  
 Carson fue el primero en hacer el gesto de ir a coger su pistola, pero cayó al suelo fulminado antes de terminar de desenfundar. Joe *Gran Rifle* había disparado con el arma aún enfundada. Se escucharon algunas exclamaciones y los primeros murmullos empezaron enseguida a comentar lo sucedido.  
@@ -44,7 +44,7 @@ Envuelto en la oscuridad de una noche sin luna, Joe observaba agazapado entre la
 Se acercó al hombre sin dejar de apuntarle.  
 &mdash;Ahora date media vuelta despacio. A la menor tontería te vuelo la sesera de un tiro.  
 Cuando el pirómano terminó de darse la vuelta, Joe no pudo evitar sorprenderse.  
-&mdash;¡Pero que demonios! &mdash;dijo al verse cara a cara frente al hombre que horas antes abía sido juez de su duelo.  
+&mdash;¡Pero que demonios! &mdash;dijo al verse cara a cara frente al hombre que horas antes había sido juez de su duelo.  
 El sheriff aprovechó el desconcierto de Joe para derribarlo de un puñetazo y hacer que se le escapase la pistola. Rápidamente, la recogió del suelo.  
 &mdash;Bud *Herradura*, quedas detenido por intentar incendiar el granero de la granja de la familia Archibald &mdash;dijo el sheriff.  
 &mdash;¿¡Me vas a acusar a mí de lo que tú mismo ibas a hacer!? ¡Maldito bastardo! ¡Les diré a todos quién es el verdadero bandido! &mdash;replicó Joe.  
@@ -92,7 +92,7 @@ La mujer hizo una mueca de disgusto desde la ventana y, acto seguido, desapareci
 Por toda respuesta, ella se sacó del escote un fajo de billetes.  
 &mdash;Joe, voy a tener que empezar a pensar que me quieres por el interés &mdash;dijo la mujer simulando enfado con un gesto gracioso.  
 &mdash;¡Cariño! &mdash;dijo Joe con un aire inocente en el rostro&mdash;, son para pagarle al señor McCoy nuestra estancia. &mdash;Se volvió hacia el dueño del *saloon*&mdash; ¡McCoy, mi señora y yo dejamos libre la abitación! ¿Sería tan amable de conseguirnos un carro de caballos para dar un paseo? Creo que el sheriff le agradecería que se diera prisa.  
-El sheriff, retenido bajo la pistola de Joe *Gran Rifle*, hizo un gesto de asentimiento al señor McCoy, que se perdió para ir a buscar lo que le habían pedido. Al poco tiempo apareció con un carruaje tirado por dos caballos. Joe y Rose bajaron del estrado, con el sheriff como rehén. La mujer se metió con este último en el carro, mientras Joe, subido en el pescante, le daba unos dólares al señor McCoy. Acto seguido, vuscó con la mirada al ayudante del sheriff, que se mostraba conmocionado por los acontecimientos. Gran Rifle le dirigió su mirada más amenazadora.  
+El sheriff, retenido bajo la pistola de Joe *Gran Rifle*, hizo un gesto de asentimiento al señor McCoy, que se perdió para ir a buscar lo que le habían pedido. Al poco tiempo apareció con un carruaje tirado por dos caballos. Joe y Rose bajaron del estrado, con el sheriff como rehén. La mujer se metió con este último en el carro, mientras Joe, subido en el pescante, le daba unos dólares al señor McCoy. Acto seguido, buscó con la mirada al ayudante del sheriff, que se mostraba conmocionado por los acontecimientos. Gran Rifle le dirigió su mirada más amenazadora.  
 &mdash;Tiene usted suerte de que a mi señora le apetezca dar un paseo, porque me habría encantado quedarme y volarle la cabeza &mdash;dijo, antes de escupir al suelo&mdash;. Cuide de que nadie nos siga y pronto tendrán a su sheriff de vuelta.  
 El polvo se levantó por el camino a medida que el carruaje se alejaba de la vista de todos los que habían acudido esa mañana a ver el ajusticiamiento de Bud *Herradura*. Cuando el vehículo llegó a la salida del pueblo, se detuvo. Joe y Rose cortaron las ataduras de los caballos y montaron en ellos. Hicieron un par de disparos y se despidieron con la mano de los habitantes del pueblo.  
 &mdash;Si aparece otro bandido por su pueblo, no dude usted en llamarnos &mdash;dijeron antes de partir al galope y dejar al sheriff espetando maldiciones desde el interior del carruaje.  
