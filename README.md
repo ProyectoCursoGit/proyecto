@@ -2,7 +2,6 @@
 Práctica final del curso 'Desarrollo de software colaborativo con Git, 1ª edición' del CEVUG.
 
 ### Plantilla personalizada
-
 La plantilla utilizada en este proyecto puede encontrarse
 [aquí](https://github.com/ProyectoCursoGit/template_git_personalizado). Se trata de un
 fork de otra plantilla a la que hemos añadido nuestros propios hooks.
@@ -24,3 +23,8 @@ fork de otra plantilla a la que hemos añadido nuestros propios hooks.
     ⇒  git add prueba.bak
     ⇒  git commit
     No puede haber archivos terminados en .bak
+
+### Integración continua
+
+Integración continua con Travis-CI:  
+[![Build Status](https://travis-ci.org/ProyectoCursoGit/proyecto.svg?branch=master)](https://travis-ci.org/ProyectoCursoGit/proyecto)
